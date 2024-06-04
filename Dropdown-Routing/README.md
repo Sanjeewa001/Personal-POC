@@ -1,3 +1,20 @@
+## Project Overview
+A POC which contains a pages route via a dropdown list this may helpfull to use it on your projects, and for the education purposes 
+![image](https://github.com/Sanjeewa001/Personal-POC/assets/87803867/25a43fa6-1f0a-451d-90af-7859d489db07)
+- route enables for two components via dropdown lists
+
+## Create project
+```bash 
+npx create-next-app my-nextjs-dropdown
+cd my-nextjs-dropdown
+
+```
+
+### Intall MUI Styles
+```bash 
+npm install @mui/material @emotion/react @emotion/styled
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
