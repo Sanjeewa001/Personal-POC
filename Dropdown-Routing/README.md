@@ -1,4 +1,4 @@
-## Project Overview
+## POC Overview
 A POC which contains a pages route via a dropdown list this may helpfull to use it on your projects, and for the education purposes 
 ![image](https://github.com/Sanjeewa001/Personal-POC/assets/87803867/25a43fa6-1f0a-451d-90af-7859d489db07)
 - route enables for two components via dropdown lists
